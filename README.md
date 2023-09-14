@@ -3,9 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-cowboy-computer-coding-w60pcikl6ieg525n.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahid-ul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="zahid-ul-islam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahid-ul-islam" alt="zahid-ul-islam" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack**
 
