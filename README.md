@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **zahidulislamfahim88@gmail.com**
 
-- ⚡ Fun fact **Every seems to be funny unless coding**
+- ⚡ Fun fact **Everything seems to be funny unless coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
